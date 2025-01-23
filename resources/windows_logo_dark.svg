@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 4875 4875"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Windows_logo_-_2021.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.041025641"
+     inkscape:cx="-3229.6875"
+     inkscape:cy="2925"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#dedede;stroke-width:6.09375;fill-opacity:1"
+     d="M 3.046875,1154.7656 V 0 H 1154.7656 2306.4844 V 1154.7656 2309.5313 H 1154.7656 3.046875 Z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="fill:#dfdfdf;stroke-width:6.09375"
+     d="M 2568.5156,1154.7656 V 0 H 3720.2344 4871.9531 V 1154.7656 2309.5313 H 3720.2344 2568.5156 Z"
+     id="path3" />
+  <path
+     style="fill:#dfdfdf;stroke-width:6.09375"
+     d="M 2568.5156,3720.2344 V 2565.4688 H 3720.2344 4871.9531 V 3720.2344 4875 H 3720.2344 2568.5156 Z"
+     id="path4" />
+  <path
+     style="fill:#dfdfdf;stroke-width:6.09375"
+     d="M 3.046875,3720.2344 V 2565.4688 H 1154.7656 2306.4844 V 3720.2344 4875 H 1154.7656 3.046875 Z"
+     id="path5" />
+</svg>
