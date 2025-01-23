@@ -1,0 +1,13 @@
+[Desktop Entry]
+
+Name=Reboot to Windows
+GenericName=System Shortcut
+Comment=Update next boot entry and reboot system
+
+Icon=windows-logo-dark
+Type=Application
+Categories=Utility;
+Keywords=reboot;windows;
+
+Exec=gksu reboot_into_windows
+StartupNotify=false
