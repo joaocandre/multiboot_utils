@@ -1,0 +1,13 @@
+[Desktop Entry]
+
+Name=Reboot to ${NAME}
+GenericName=System Shortcut
+Comment=Update next boot entry and reboot system
+
+Icon=${ICON}
+Type=Application
+Categories=Utility;
+Keywords=reboot;windows;
+
+Exec=pkexec bash -c 'sudo reboot_to ${ENTRY}'
+StartupNotify=false
