@@ -5,6 +5,7 @@ Parses and sets content of EFI variables and creates custom desktop shortcuts (a
 
 ## Installation
 
+Prior to installation, ensure `efivar` and `envsubst` are available on the shell's path.
 A minimal interactive install script is provided, just run `./install.sh` with write access to `/usr/local/bin` (or custom target install directories) and `/usr/share/applications` (when installing desktop shortcuts).
 
 ## Usage
