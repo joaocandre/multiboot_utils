@@ -9,5 +9,5 @@ Type=Application
 Categories=Utility;
 Keywords=reboot;windows;
 
-Exec=pkexec reboot_into_windows
+Exec=pkexec bash -c 'sudo reboot_into_windows'
 StartupNotify=false
